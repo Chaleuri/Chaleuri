@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 My name is Péter Hatházi.
-- 🔭 I’m currently studying as a Full-Stack Software Developer at Codecool Hungary.
+- 🔭 I studied as a Full-Stack Software Developer at Codecool Hungary.
 - 📂 For reference, look through my pinned projects.
 
 ### Tech Stack, Tools & Programming Languages
